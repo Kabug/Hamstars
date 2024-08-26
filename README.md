@@ -14,6 +14,9 @@ Compete with up to 4 friends as a hamster in this fast-paced peanut hoarding bra
 - Right button - Drop peanuts
 - Bottom button - Jump
 
+## Gameplay
+Video: [View here](https://www.instagram.com/p/CdEtuLgvDrR/?img_index=2)
+
 ## Credits
 
 Music: [Quick Party Before the End of the World - Francesco D'Andrea](https://artlist.io/song/33738/quick-party-before-the-end-of-the-world)
